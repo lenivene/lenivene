@@ -1,5 +1,5 @@
 # Lenivene
-[![Discord Badge](https://img.shields.io/badge/-Lenivene%230715-black?style=flat-squarelogo=Discord&logoColor=white)](http://discord.com/)
+[![Discord Badge](https://img.shields.io/badge/-Lenivene%230715-black?style=flat-square&logo=Discord&logoColor=white)](http://discord.com/)
 [![Email Badge](https://img.shields.io/badge/-lenivene@soufleet.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lenivene@soufleet.com)](mailto:lenivene@soufleet.com)
 [![Twitter Badge](https://img.shields.io/badge/-@enevinel-black?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/enevinel)](https://twitter.com/dieegosf) 
 
