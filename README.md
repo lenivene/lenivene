@@ -7,3 +7,5 @@
 
 I develop WordPress templates, Bots from TeamSpeak, Discord, Telegram and others. In free time I make clones of websites
 I transform layout `PSD / FW / Figma and others` in code.
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lenivene&show_icons=true" alt="fhugoduarte" /> </p>
