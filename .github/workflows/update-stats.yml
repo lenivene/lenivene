@@ -15,4 +15,5 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_PROJECTS: "False"
           SHOW_LINES_OF_CODE: "True"
+          COMMIT_MESSAGE: "docs: updated with dev metrics"
           LOCALE: "en"
