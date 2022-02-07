@@ -9,8 +9,6 @@
 <img src="https://metrics.lecoq.io/lenivene?template=classic&config.timezone=America%2FRecife" alt="Metrics" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2044%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-66-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
@@ -87,5 +85,5 @@ CSS                      4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lenivene/lenivene/master/charts/bar_graph.png) 
 
 
- Last Updated on 06/02/2022 01:30:26 UTC
+ Last Updated on 07/02/2022 01:22:07 UTC
 <!--END_SECTION:waka-->
