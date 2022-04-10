@@ -9,7 +9,7 @@
 <img src="https://metrics.lecoq.io/lenivene?template=classic&config.timezone=America%2FRecife" alt="Metrics" />
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
 
@@ -54,17 +54,17 @@ Sunday       81 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Recife
 
 💬 Programming Languages: 
-TypeScript               12 hrs 5 mins       █████████████████████░░░░   84.35% 
-JSON                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.28% 
-Text                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.21% 
-Bash                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.97% 
-JavaScript               19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.25%
+TypeScript               11 hrs 31 mins      ██████████████████████░░░   88.05% 
+JSON                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.95% 
+JavaScript               19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.55% 
+Other                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.76% 
+INI                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26%
 
 🔥 Editors: 
-VS Code                  14 hrs 19 mins      █████████████████████████   100.0%
+VS Code                  13 hrs 5 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    14 hrs 19 mins      █████████████████████████   100.0%
+Linux                    13 hrs 5 mins       █████████████████████████   100.0%
 
 ```
 
@@ -85,5 +85,5 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lenivene/lenivene/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/04/2022 02:04:35 UTC
+ Last Updated on 10/04/2022 02:00:48 UTC
 <!--END_SECTION:waka-->
