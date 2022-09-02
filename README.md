@@ -9,7 +9,7 @@
 <img src="https://metrics.lecoq.io/lenivene?template=classic&config.timezone=America%2FRecife" alt="Metrics" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-684%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-678%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -17,13 +17,13 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,772 Contributions in the Year 2022
+> 🏆 1,773 Contributions in the Year 2022
  > 
 > 📦 258.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 106 Public Repositories 
+> 📜 107 Public Repositories 
  > 
 > 🔑 54 Private Repositories  
  > 
@@ -56,17 +56,17 @@ Sunday       120 commits    ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Recife
 
 💬 Programming Languages: 
-TypeScript               12 hrs              █████████████████░░░░░░░░   68.6% 
-JavaScript               4 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   26.63% 
-JSON                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.12% 
-Other                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.6% 
+TypeScript               13 hrs 33 mins      ██████████████████░░░░░░░   73.44% 
+JavaScript               3 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   20.11% 
+Other                    41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.73% 
+JSON                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.66% 
 XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
 🔥 Editors: 
-VS Code                  17 hrs 29 mins      █████████████████████████   100.0%
+VS Code                  18 hrs 27 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    17 hrs 29 mins      █████████████████████████   100.0%
+Linux                    18 hrs 27 mins      █████████████████████████   100.0%
 
 ```
 
@@ -87,5 +87,5 @@ CSS                      3 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lenivene/lenivene/master/charts/bar_graph.png) 
 
 
- Last Updated on 01/09/2022 02:54:29 UTC
+ Last Updated on 02/09/2022 02:46:35 UTC
 <!--END_SECTION:waka-->
