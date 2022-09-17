@@ -9,7 +9,7 @@
 <img src="https://metrics.lecoq.io/lenivene?template=classic&config.timezone=America%2FRecife" alt="Metrics" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-735%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-748%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -17,7 +17,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,830 Contributions in the Year 2022
+> 🏆 1,833 Contributions in the Year 2022
  > 
 > 📦 258.5 kB Used in GitHub's Storage 
  > 
@@ -56,17 +56,17 @@ Sunday       119 commits    ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Recife
 
 💬 Programming Languages: 
-TypeScript               26 hrs 51 mins      ███████████████████████░░   93.31% 
-JavaScript               59 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.46% 
-Bash                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.19% 
-Other                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.12% 
-XML                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34%
+TypeScript               24 hrs 49 mins      ██████████████████████░░░   89.67% 
+JavaScript               1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.89% 
+Other                    20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.25% 
+Bash                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.95% 
+JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.74%
 
 🔥 Editors: 
-VS Code                  28 hrs 46 mins      █████████████████████████   100.0%
+VS Code                  27 hrs 41 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    28 hrs 46 mins      █████████████████████████   100.0%
+Linux                    27 hrs 41 mins      █████████████████████████   100.0%
 
 ```
 
@@ -87,5 +87,5 @@ CSS                      3 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lenivene/lenivene/master/charts/bar_graph.png) 
 
 
- Last Updated on 16/09/2022 03:12:19 UTC
+ Last Updated on 17/09/2022 02:58:24 UTC
 <!--END_SECTION:waka-->
